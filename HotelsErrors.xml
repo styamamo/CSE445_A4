@@ -2,7 +2,7 @@
 <!-- Error #1-->
 <Hotel>
 <!-- Contains error #2(missing city in Address), #4(Address missing closing tag), #5(two names provided for Tempe Mission Palms)-->
-  <Hotel _Rating="4.2">
+  <Hotel Rating="4.2">
     <Name>Tempe Mission Palms</Name>
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -10,30 +10,30 @@
     <Address Number="11" Street="E 7th St" State="AZ" Zip="85281" NearestAirport="Sky Harbor">
   </Hotel>
 <!-- Contains error #3(missing Phone Number) -->
-  <Hotel _Rating="3.9">
+  <Hotel Rating="3.9">
     <Name>Wyndham Phoenix Airport/Tempe</Name>
     <Address Number="1600" Street="S 52nd St" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
   </Hotel>
 
-  <Hotel _Rating="4.2">
+  <Hotel Rating="4.2">
     <Name>Graduate by Hilton</Name>
     <Phone>480-967-9431</Phone>
     <Address Number="225" Street="E Apache Blvd" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
   </Hotel>
 
-  <Hotel _Rating="3.9">
+  <Hotel Rating="3.9">
     <Name>DoubleTree Suites</Name>
     <Phone>602-225-0500</Phone>
     <Address Number="320" Street="N 44th St" City="Phoenix" State="AZ" Zip="85008" NearestAirport="Sky Harbor"/>
   </Hotel>
 
-  <Hotel _Rating="4.4">
+  <Hotel Rating="4.4">
     <Name>University Inn Tempe/ASU</Name>
     <Phone>480-966-7221</Phone>
     <Address Number="902" Street="S Mill Ave" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
   </Hotel>
 
-  <Hotel _Rating="4.5">
+  <Hotel Rating="4.5">
     <Name>Omni Tempe Hotel</Name>
     <Phone>602-794-8600</Phone>
     <Address Number="7" Street="E University Dr" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
