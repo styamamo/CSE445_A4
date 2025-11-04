@@ -1,38 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-  <Hotel Rating="4.2">
+  <Hotel>
     <Name>Westin</Name>
+    <Rating>4.2</Rating>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
     <Address Number="11" Street="E.7th St" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
   </Hotel>
 
-  <Hotel Rating="3.9">
+  <Hotel>
     <Name>Wyndham Phoenix Airport/Tempe</Name>
+    <Rating>3.9</Rating>
     <Phone>480-967-6600</Phone>
     <Address Number="1600" Street="S.52nd St" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
   </Hotel>
 
-  <Hotel Rating="4.2">
+  <Hotel>
     <Name>Graduate by Hilton</Name>
+    <Rating>4.2</Rating>
     <Phone>480-967-9431</Phone>
     <Address Number="225" Street="E.Apache Blvd" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
   </Hotel>
 
-  <Hotel Rating="3.9">
+  <Hotel>
     <Name>DoubleTree Suites</Name>
+    <Rating>3.9</Rating>
     <Phone>602-225-0500</Phone>
     <Address Number="320" Street="N.44th St" City="Phoenix" State="AZ" Zip="85008" NearestAirport="Sky Harbor"/>
   </Hotel>
 
-  <Hotel Rating="4.4">
+  <Hotel>
     <Name>University Inn Tempe/ASU</Name>
+    <Rating>4.4</Rating>
     <Phone>480-966-7221</Phone>
     <Address Number="902" Street="S.Mill Ave" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
   </Hotel>
 
-  <Hotel Rating="4.5">
+  <Hotel>
     <Name>Omni Tempe Hotel</Name>
+    <Rating>4.5</Rating>
     <Phone>602-794-8600</Phone>
     <Address Number="7" Street="E.University Dr" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
   </Hotel>
@@ -67,4 +73,5 @@
     <Address Number="601" Street="S.Ash Ave" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
   </Hotel>
 </Hotels>
+
 
